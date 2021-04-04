@@ -1,0 +1,40 @@
+body{
+    background-color: lightskyblue;
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    max-width: 50%;
+    max-height: auto;
+    text-align: center;
+    background-color: beige;
+    font-family: 'Roboto Mono', monospace;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.34); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.34);
+}
+
+button{
+font-family: 'Roboto Mono', monospace;
+background-color: whitesmoke;
+border-radius: 13px;
+font-size: 110%;
+border-spacing: 3px;
+margin-left:10px;
+margin-right:10px;
+}
+
+
+
+div img{
+    image-rendering: pixelated;
+    border-radius: 100px;
+    width: 15%;
+    height: auto;
+
+
+ 
+
+}
+
